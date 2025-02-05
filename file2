@@ -1,0 +1,4 @@
+git add
+git [D[D[D[D[A[C[C[C[C[C[C[C filename[B[D[D[D[D[D[D[D[D[D[D[D[Dstatus
+git commit -m "user comment"
+git push
